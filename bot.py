@@ -9,8 +9,8 @@ from googlesearch import search
 
 client = discord.Client()
 
-TOKEN = 'NzkyMDEyNzg4MTMzNjU4NjM0.X-XhYw.-9cujAxRDfSBYJtK2BaSbfEfW2I'
-WOLFRAM = '6XLY7X-YJL4JLAEK4'
+TOKEN = ''
+WOLFRAM = ''
 wolframclient = wolframalpha.Client(WOLFRAM)
 
 @client.event
